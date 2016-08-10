@@ -5,9 +5,9 @@ size(700,700);
 background(0,30,120);
 
 // a black square within a white border
-strokeWeight(5);
-stroke(255);
 fill(0);
+stroke(255);
+strokeWeight(5);
 rectMode(CENTER);
 rect(width/2, height/2, width/2, height/2);
 
